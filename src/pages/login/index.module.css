@@ -1,0 +1,30 @@
+.background {
+  position: absolute;
+  background-color: dodgerblue;
+  height: 100%;
+  width: 100%;
+  color:white;
+  display: grid;
+  justify-items: center;
+  align-items: center;
+}
+
+.center {
+  background-color: #fff;
+  color: #000;
+  display: block;
+  padding: 30px 75px 40px 50px;
+  width: 500px;
+}
+
+.title {
+  text-align: center;
+  margin-bottom: 20px;
+  font-weight: bold;
+  color: dodgerblue;
+  font-size: 28px;
+}
+
+.logo{
+  font-size: 40px;
+}
